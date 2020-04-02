@@ -1,2 +1,2 @@
 # PyQt5-Windows
-PyQt5 5.13.2 for Windows
+Unofficial build of PyQt5 v.5.13.2 for Windows
